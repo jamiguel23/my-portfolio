@@ -40,7 +40,16 @@ const skills = [
 
 ]
 
+const testimonials = [
+  'something nice to',
+  'something',
+  'something else',
+
+]
+
+
 module.exports = {
   projects,
-  skills
+  skills,
+  testimonials
 }
