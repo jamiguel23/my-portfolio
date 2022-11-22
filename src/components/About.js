@@ -10,7 +10,7 @@ export default function About() {
             <br className="hidden lg:inline-block" />Welcome to my Portfolio!
           </h1>
           <p className="mb-8 leading-relaxed">
-            Software developer and former Pricing Analyst
+            Web developer and former Pricing Analyst
             with Zillow Group with home pricing analytics
             and customer service background driven to
             continue education in web development while
@@ -52,28 +52,6 @@ export default function About() {
             growth in not just the tech industry but in all.
           </p>
 
-          <p className="mb-8 leading-relaxed">Prior to my time at Year Up, I have held various
-            roles. Mostly working in different forms of
-            customer service through travel companies like
-            Greyhound and BoltBus, I found true inspiration
-            for my future working as a tour guide at the
-            Living Computer Museum. Interacting and talking
-            about these older machines was beyond
-            fascinating to me. I knew that I wanted to move
-            away from customer service and into more
-            technical roles which led to my most recent role
-            as a Pricing Analyst with Zillow Group. Though I
-            enjoyed my role, it did not give me enough sense
-            of fulfillment. There is something inside me
-            that needs to be fulfilled. The exploration of
-            its source feels innate, and I want it deeply.
-            Of course, wanting something bad enough is not
-            good enough, and convincing others of this
-            desire can be difficult. However, in lieu of a
-            formal background in computer science, I draw
-            from my experiences in my drive to become a
-            software developer</p>
-
           <p className="mb-8 leading-relaxed">What drives me is my personal experience as a
             child of Filipino immigrants. The struggles many
             immigrant families face are unfortunately
@@ -89,17 +67,10 @@ export default function About() {
             integral part of my strength and motivation, and
             I will continue to rely on them when I am tested
             in both the path to becoming and working as a
-            software developer.
+            web developer.
 
           </p>
 
-          <p className="mb-8 leading-relaxed">As mentioned above, along with my immense passion
-            for software development, I am confident that I
-            can excel in roles as a software developer and
-            be a proven example that many talented people
-            who come from non-traditional backgrounds, when
-            presented with the opportunity, can become
-            successful in the tech industry.</p>
 
           <p className="mb-8 leading-relaxed"> Feel free to checkout my old projects linked in
             the Navbar and please don't hesitate to reach
