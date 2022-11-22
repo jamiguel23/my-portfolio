@@ -7,13 +7,17 @@ export default function About() {
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Hi, I'm Matt.
-            <br className="hidden lg:inline-block" />I love to build amazing
-            apps.
+            <br className="hidden lg:inline-block" />Welcome to my Portfolio!
           </h1>
           <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+          Software developer and former Pricing Analyst
+            with Zillow Group with home pricing analytics
+            and customer service background driven to
+            continue education in web development while
+            proactively looking to obtain a software
+            engineer position in a fast-paced organization
+            where exceptional technical skills and ability
+            to quickly adapt to change are essential.
           </p>
           <div className="flex justify-center">
             <a
