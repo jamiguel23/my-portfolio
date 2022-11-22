@@ -1,5 +1,6 @@
 import { ArrowRightIcon } from "@heroicons/react/solid";
 import React from "react";
+import { AiFillLinkedin } from "react-icons/ai";
 
 export default function Navbar() {
   return (
@@ -21,6 +22,12 @@ export default function Navbar() {
           <a href="#testimonials" className="mr-5 hover:text-white">
             Testimonials
           </a>
+          <div href="https://www.linkedin.com/in/jamiguel23/" className="flex flex-wrap mr-5 hover:text-white items-center">
+          <AiFillLinkedin/>
+          <a href="https://www.linkedin.com/in/jamiguel23/">
+            LinkedIn
+          </a>
+          </div>
         </nav>
         <a
           href="#contact"
