@@ -29,7 +29,7 @@ export default class About extends Component {
           </div>
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-          <img src='../' alt='me'/>
+          {/* <img src='../../me.jpeg' alt='me'/> */}
         </div>
       </div>
     </section>
