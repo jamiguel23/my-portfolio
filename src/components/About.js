@@ -79,7 +79,9 @@ export default function About() {
           <p> Ever onward,</p>
 
           <p className="mb-8 leading-relaxed"> J.Matthew Miguel</p>
-          
+
+
+
           <div className="flex justify-center">
             <a
               href="#contact"
@@ -92,13 +94,31 @@ export default function About() {
               See My Past Work
             </a>
           </div>
+
         </div>
+
+
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
           <img
             className="object-cover object-center rounded"
             alt="hero"
             src="./me.jpeg"
           />
+
+          <div className="flex justify-center space-x-4 mt-4">
+            <img
+              className="object-cover object-center rounded"
+              alt="placeholder image"
+              src="https://via.placeholder.com/150"
+            />
+            <img
+              className="object-cover object-center rounded"
+              alt="placeholder image"
+              src="https://via.placeholder.com/150"
+            />
+
+          </div>
+
         </div>
       </div>
     </section>
