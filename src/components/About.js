@@ -109,7 +109,7 @@ export default function About() {
             <div className="">
               <img
                 className="object-cover object-center rounded"
-                alt="placeholder image"
+                alt="placeholder image1"
                 src="https://via.placeholder.com/200"
               />
               <p> caption something</p>
@@ -118,7 +118,7 @@ export default function About() {
             <div className="">
               <img
                 className="object-cover object-center rounded"
-                alt="placeholder image"
+                alt="placeholder image2"
                 src="https://via.placeholder.com/300x200"
               />
               <p> caption something</p>
