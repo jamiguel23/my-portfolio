@@ -29,6 +29,10 @@ export default function Skills() {
             </div>
           ))}
         </div>
+
+        <div>
+          linked image of resume here
+        </div>
       </div>
     </section>
   );

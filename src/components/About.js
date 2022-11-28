@@ -105,16 +105,16 @@ export default function About() {
             src="./me.jpeg"
           />
 
-          <div className="flex justify-center space-x-4 mt-4">
+          <div className="flex justify-center space-x-3 mt-4">
             <img
               className="object-cover object-center rounded"
               alt="placeholder image"
-              src="https://via.placeholder.com/150"
+              src="https://via.placeholder.com/200"
             />
             <img
               className="object-cover object-center rounded"
               alt="placeholder image"
-              src="https://via.placeholder.com/150"
+              src="https://via.placeholder.com/300"
             />
 
           </div>
