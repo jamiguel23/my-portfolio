@@ -108,20 +108,20 @@ export default function About() {
           <div className="flex justify-center space-x-3 mt-3">
             <div className="text-sm">
               <img
-                className="object-cover object-center rounded"
+                className="object-fill h-48 w-55 object-center rounded"
                 alt="placeholder image1"
-                src="https://via.placeholder.com/200"
+                src="./work.jpeg"
               />
-              <p> caption something</p>
+              <p>Workflow</p>
 
             </div>
             <div className="text-sm">
               <img
-                className="object-cover object-center rounded"
+                className="object-fill h-48 w-96 object-center rounded"
                 alt="placeholder image2"
-                src="https://via.placeholder.com/300x200"
+                src="./TA.png"
               />
-              <p> caption something</p>
+              <p> Helping out with TA ticket</p>
 
             </div>
 
