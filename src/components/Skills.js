@@ -34,7 +34,7 @@ export default function Skills() {
         <div className="flex flex-col items-center">
 
           <img
-            className="object-scale-down h-50 w-100"
+            className="object-scale-down"
             alt="hero"
             src="./resume.png"
             width="600"
@@ -43,7 +43,7 @@ export default function Skills() {
 
           <div className="flex flex-wrap mr-5 hover:text-white items-center">
             <AiFillFilePdf />
-            <a href="./Matt_Miguel.pdf" download=""> Download Resume</a>
+            <a href="./Matt_Miguel.pdf" download="">Download Resume</a>
 
           </div>
         </div>
