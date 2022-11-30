@@ -30,12 +30,14 @@ export default function Skills() {
           ))}
         </div>
 
-        <div className="">
+        <div className="flex flex-col items-center">
 
         <img
             className="object-scale-down h-50 w-100"
             alt="hero"
             src="./resume.png"
+            width="600"
+            height="800"
           />
           
           <a href="./Matt_Miguel.pdf" download="">Download Resume</a>
