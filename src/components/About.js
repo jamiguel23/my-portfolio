@@ -25,7 +25,7 @@ export default function About() {
             suddenly there was all the time in the world due
             to companies and schools eventually
             transitioning to a remote model. I decided to
-            make the most out of the lockdown and dove right
+            make the most out of the lock-down and dove right
             in. While providing tours at a computer museum,
             I was impressed and inspired by the ability of a
             team working together when creating an app or a
@@ -60,7 +60,7 @@ export default function About() {
             an individual deals with these struggles. I cope
             with depression, experienced financial hardship
             such as foreclosing on our family home, and
-            forgoed the opportunity to attend college to
+            forwent the opportunity to attend college to
             work. These were once considered roadblocks but
             now I consider them as essential building blocks
             for a foundation to a stronger me. They are an
