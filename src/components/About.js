@@ -109,7 +109,7 @@ export default function About() {
             <div className="text-sm">
               <img
                 className="object-fill h-48 w-55 object-center rounded"
-                alt="placeholder image1"
+                alt="working on a project"
                 src="./work.jpeg"
               />
               <p>Workflow</p>
@@ -118,10 +118,10 @@ export default function About() {
             <div className="text-sm">
               <img
                 className="object-fill h-48 w-96 object-center rounded"
-                alt="placeholder image2"
+                alt="assisting a student"
                 src="./TA.png"
               />
-              <p> Helping out with TA ticket</p>
+              <p>Assisting at student</p>
 
             </div>
 
