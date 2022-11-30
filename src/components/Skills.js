@@ -1,6 +1,7 @@
 import { BadgeCheckIcon, ChipIcon } from "@heroicons/react/solid";
 import React from "react";
 import { skills } from "../data";
+import { AiFillFilePdf } from "react-icons/ai";
 
 export default function Skills() {
   return (
@@ -32,15 +33,19 @@ export default function Skills() {
 
         <div className="flex flex-col items-center">
 
-        <img
+          <img
             className="object-scale-down h-50 w-100"
             alt="hero"
             src="./resume.png"
             width="600"
             height="800"
           />
-          
-          <a href="./Matt_Miguel.pdf" download="">Download Resume</a>
+
+          <div className="flex flex-wrap mr-5 hover:text-white items-center">
+            <AiFillFilePdf />
+            <a href="./Matt_Miguel.pdf" download=""> Download Resume</a>
+
+          </div>
         </div>
       </div>
     </section>
