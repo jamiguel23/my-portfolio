@@ -30,7 +30,7 @@ export default function Skills() {
           ))}
         </div>
 
-        {/* <div className="">
+        <div className="">
 
         <img
             className="object-scale-down h-50 w-100"
@@ -38,8 +38,8 @@ export default function Skills() {
             src="./resume.png"
           />
           
-          <a href="https://www.hipdf.com/download-file?share_id=jNncY4S7P_816dAEPNIdFg">Download Resume</a>
-        </div> */}
+          <a href="./Matt_Miguel.pdf" download="">Download Resume</a>
+        </div>
       </div>
     </section>
   );
