@@ -126,8 +126,16 @@ export default function About() {
             </div>
 
           </div>
+        <div className="flex flex-col justify-center mt-3">
+          <iframe src="https://www.youtube.com/embed/k0bfyRWeEeU" title="45 second pitch" frameborder="0" allow="fullscreen">
+          </iframe>
+
+          <p>Portfolio Introduction</p>
+          
+        </div>
 
         </div>
+
       </div>
     </section>
   );

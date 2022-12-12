@@ -12,7 +12,7 @@ export default function Projects() {
             Apps I've Built
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Content here
+            Come check out all live deployed projects
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
