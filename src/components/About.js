@@ -10,14 +10,8 @@ export default function About() {
             <br className="hidden lg:inline-block" />Welcome to my Portfolio!
           </h1>
           <p className="mb-8 leading-relaxed">
-            Web developer and former Pricing Analyst
-            with Zillow Group with home pricing analytics
-            and customer service background driven to
-            continue education in web development while
-            proactively looking to obtain a software
-            engineer position in a fast-paced organization
-            where exceptional technical skills and ability
-            to quickly adapt to change are essential.
+            About
+            Full Stack MERN Developer and avid snowsport enthusiast with experience in Customer Service and Home Pricing based in Seattle, WA. Inspiration from time working at a computer museum led to a new meaning in wanting to create solutions for life’s problems using code. Code Fellows coding boot camp graduate in Javascript Development. Currently, Teachers Assist with Code Fellows and studying with the Year Up program, continuing to learn more about web and software development with sights on an internship in the next few months.
           </p>
           <p className="mb-8 leading-relaxed">For a long time, I have wanted to learn how to
             program but due to life’s curveballs there never
@@ -126,13 +120,13 @@ export default function About() {
             </div>
 
           </div>
-        <div className="flex flex-col justify-center mt-3">
-          <iframe src="https://www.youtube.com/embed/k0bfyRWeEeU" title="45 second pitch" frameborder="0" allow="fullscreen">
-          </iframe>
+          <div className="flex flex-col justify-center mt-3">
+            <iframe src="https://www.youtube.com/embed/k0bfyRWeEeU" title="45 second pitch" frameborder="0" allow="fullscreen">
+            </iframe>
 
-          <p>Portfolio Introduction</p>
-          
-        </div>
+            <p>Portfolio Introduction</p>
+
+          </div>
 
         </div>
 
