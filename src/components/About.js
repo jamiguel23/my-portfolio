@@ -7,7 +7,7 @@ export default function About() {
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Hi, I'm Matt.
-            <br className="hidden lg:inline-block" />Welcome to my Portfolio!
+            <br className="hidden lg:inline-block" />Welcome to my portfolio!
           </h1>
           <p className="mb-8 leading-relaxed">
             About
@@ -17,7 +17,7 @@ export default function About() {
             program but due to life’s curveballs there never
             seemed to be enough time. Then, COVID hit and
             suddenly there was all the time in the world due
-            to companies and schools eventually
+            to companies and schools eventually 
             transitioning to a remote model. I decided to
             make the most out of the lock-down and dove right
             in. While providing tours at a computer museum,
