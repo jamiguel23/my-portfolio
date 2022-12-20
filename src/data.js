@@ -1,36 +1,36 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Horned Beast",
+    subtitle: "React.js",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "Ever wanted to vote on your favorite horned breast? Now you can with this exrensive list of your favorite beast real and imaginary. Add likes to your favorite and fliter but number of horns. Which is your favorite?",
+    image: "./horn-beast.gif",
+    link: "https://hornedbeast-jamiguel23.netlify.app/",
   },
   {
     title: "React Tracks",
     subtitle: "React and Python",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
+    image: "./horn-beast.gif",
     link: "https://reactbootcamp.com",
   },
-  {
-    title: "DevChat",
-    subtitle: "React and Firebase",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
-  },
-  {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
-  },
+  // {
+  //   title: "DevChat",
+  //   subtitle: "React and Firebase",
+  //   description:
+  //     "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+  //   image: "./project-3.gif",
+  //   link: "https://reactbootcamp.com",
+  // },
+  // {
+  //   title: "Epic Todo App",
+  //   subtitle: "React Hooks",
+  //   description:
+  //     "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+  //   image: "./project-4.gif",
+  //   link: "https://reactbootcamp.com",
+  // },
 ];
 
 export const testimonials = [
