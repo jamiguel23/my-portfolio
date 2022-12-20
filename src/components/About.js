@@ -10,7 +10,6 @@ export default function About() {
             <br className="hidden lg:inline-block" />Welcome to my portfolio!
           </h1>
           <p className="mb-8 leading-relaxed">
-            About
             Full Stack MERN Developer and avid snowsport enthusiast with experience in Customer Service and Home Pricing based in Seattle, WA. Inspiration from time working at a computer museum led to a new meaning in wanting to create solutions for life’s problems using code. Code Fellows coding boot camp graduate in Javascript Development. Currently, Teachers Assist with Code Fellows and studying with the Year Up program, continuing to learn more about web and software development with sights on an internship in the next few months.
           </p>
           <p className="mb-8 leading-relaxed">For a long time, I have wanted to learn how to
