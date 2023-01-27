@@ -47,7 +47,7 @@ export default function Skills() {
         </div>
 
         <div className="flex justify-center space-x-3 mt-3">
-          <iframe src="https://www.youtube.com/embed/zhJncKmbvdA" title="Coding Challenge" frameborder="0" allow="fullscreen">
+          <iframe src="https://www.youtube.com/embed/zhJncKmbvdA" title="Coding Challenge" frameBorder="0" allow="fullscreen">
 
           </iframe>
         </div>
