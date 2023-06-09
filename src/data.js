@@ -51,6 +51,13 @@ export const testimonials = [
   },
   {
     quote:
+      'It was truly a pleasure working with Matthew. The open line of communication always made me feel that he was sitting right next to me even though we were thousands of miles apart. His ability to exceed expectations consistently was a blessing while I was trying to learn how to manage a remote team during a pandemic. It also allowed him to pursue his dream career of software development which I highly encouraged him to do. Matthew would be an excellent addition to any team. He assimilates new ideas, processes, and goals quickly and always provide much needed feedback in a constructive manner. Please feel to reach out if you would like additional information.',
+    image: "./ryan.jpeg",
+    name: "Ryan Ohu",
+    company: "Zillow Group",
+  },
+  {
+    quote:
       "I've had the pleasure of working with Matt at Year Up and have witnessed him build community, skill, and expertise in the software development world. Matt is someone who regularly demonstrates a willingness to learn - moving through challenges and even discomfort with a growth mindset. Matt displays leadership, grace, and authenticity in all his actions -- I'm confident that his eagerness to learn, grow, and build relationships will be an asset to any team. I wholeheartedly recommend Matt as a professional, and am excited to see where his journey takes him.",
     image: "./kiki.jpeg",
     name: "Kiki Chocklett",
