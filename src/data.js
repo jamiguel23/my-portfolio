@@ -24,14 +24,14 @@ export const projects = [
     image: "./discordgif.gif",
     link: "https://github.com/jamiguel23/discord-weather",
   },
-  // {
-  //   title: "Data Structures and Algorithms",
-  //   subtitle: "Coding Boot Camp Ex",
-  //   description:
-  //     "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-  //   image: "./project-4.gif",
-  //   link: "https://github.com/jamiguel23/data-structures-and-algorithms",
-  // },
+  {
+    title: "Data Structures and Algorithms",
+    subtitle: "Coding Boot Camp Ex",
+    description:
+      "Learning data structures and algorithms is essential for efficient problem-solving in high-performance software in modern environments.",
+    image: "./testinggif.gif",
+    link: "https://github.com/jamiguel23/data-structures-and-algorithms",
+  },
 ];
 
 export const testimonials = [
