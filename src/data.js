@@ -13,24 +13,24 @@ export const projects = [
     subtitle: "HTML, CSS, Vanilla JS",
     description:
       "Dynamically mix and match HTML and CSS terms in this engaging memory game, enhancing web development knowledge and testing memory skills.",
-    image: "./project-2.gif",
+    image: "./memorygif.gif",
     link: "hhttps://theta-btm260.github.io/memory-game/",
   },
   {
-    title: "DevChat",
-    subtitle: "Placeholder",
+    title: "ForecastNow",
+    subtitle: "Discord Bot",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+      "Ever want to know what the weather is while chatting with your friends on discord? No need to pause when you can ask ForcastNow directly in chat box!",
+    image: "./discordgif.gif",
+    link: "https://github.com/jamiguel23/discord-weather",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "Placeholder",
+    title: "Data Structures and Algorithms",
+    subtitle: "Coding Boot Camp Ex",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+      "Learning data structures and algorithms is essential for efficient problem-solving in high-performance software in modern environments.",
+    image: "./testinggif.gif",
+    link: "https://github.com/jamiguel23/data-structures-and-algorithms",
   },
 ];
 

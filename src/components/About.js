@@ -10,8 +10,11 @@ export default function About() {
             <br className="hidden lg:inline-block" />Welcome to my portfolio!
           </h1>
           <p className="mb-8 leading-relaxed">
-            Full Stack MERN Developer and avid snowsport enthusiast with experience in Customer Service and Home Pricing based in Seattle, WA. Inspiration from time working at a computer museum led to a new meaning in wanting to create solutions for life’s problems using code. Code Fellows coding boot camp graduate in Javascript Development. Currently, Teachers Assist with Code Fellows and studying with the Year Up program, continuing to learn more about web and software development with sights on an internship in the next few months.
+          As a Software Developer at Providence, I design and implement software solutions using C#, Azure DevOps, and the full Microsoft Office suite. I collaborate with a team of developers and present bi-weekly updates on project progress, milestones, and deliverables to the entire organization. I also work closely with senior developers and project managers daily to gather requirements, prioritize tasks, and meet project deadlines.
+
+          With over two years of experience in full stack web development, I am passionate about creating solutions for life's problems using code. I graduated from Code Fellows coding boot camp in Javascript Development, and I am currently a Teacher Assistant at Code Fellows, where I tailor individual instruction, guidance, and technical support to 100 students at all class levels. I am also a snowsport enthusiast and a former museum guide, inspired by the history and potential of computer technology.
           </p>
+          
           <p className="mb-8 leading-relaxed">For a long time, I have wanted to learn how to
             program but due to life’s curveballs there never
             seemed to be enough time. Then, COVID hit and
