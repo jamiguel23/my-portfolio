@@ -1,4 +1,3 @@
-import { ArrowRightIcon } from "@heroicons/react/solid";
 import React from "react";
 import { AiFillLinkedin, AiFillGithub } from "react-icons/ai";
 
