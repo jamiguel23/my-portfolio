@@ -70,6 +70,6 @@ export const skills = [
   "React.js",
   "React Bootstrap",
   "Node.js",
-  "tailwindcss",
-  "Material UI",
+  "C#",
+  "APS.NET Core",
 ];

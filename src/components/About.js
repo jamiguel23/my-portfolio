@@ -31,21 +31,18 @@ export default function About() {
             models, I found that outside the entry and
             mid-levels, I noticed a strong lack of people
             who looked like me in the management, director,
-            and C-suite levels. How can my demography be the
-            second most in the industry but almost never in
-            these types of positions? I want to grow and be
+            and C-suite levels. I want to grow and be
             an example to those who look like me that we
-            belong in these spaces. I am currently a young
-            professional with the Year Up program where I
-            have continued to develop hard-skills like web
+            belong in these spaces. I am a Year Up graduate where I
+             continued to develop hard-skills like web
             development, software development, and data
             analyzation, in addition to fostering
             soft-skills such as, strong communication,
             adaptability, and leadership. The Year Up
-            program gives me a platform where we can
+            program gave me a platform where we can
             practice these skills and competencies while
             creating a strong foundation for continued
-            growth in not just the tech industry but in all.
+            growth in all industries.
           </p>
 
           <p className="mb-8 leading-relaxed">What drives me is my personal experience as a
@@ -102,31 +99,13 @@ export default function About() {
           />
 
           <div className="flex justify-center space-x-3 mt-3">
-            <div className="text-sm">
-              <img
-                className="object-fill h-48 w-55 object-center rounded"
-                alt="working on a project"
-                src="./work.jpeg"
-              />
-              <p>Workflow</p>
-
-            </div>
-            <div className="text-sm">
-              <img
-                className="object-fill h-48 w-96 object-center rounded"
-                alt="assisting a student"
-                src="./TA.png"
-              />
-              <p>Assisting at student</p>
-
-            </div>
+            
 
           </div>
           <div className="flex flex-col justify-center mt-3">
             <iframe src="https://www.youtube.com/embed/k0bfyRWeEeU" title="45 second pitch" frameBorder="0" allow="fullscreen">
             </iframe>
 
-            <p>Portfolio Introduction</p>
 
           </div>
 
